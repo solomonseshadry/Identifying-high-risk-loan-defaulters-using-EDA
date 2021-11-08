@@ -1,4 +1,4 @@
-# Loan Risk Analysis for lendingclub.com
+# Identifying high risk loan defaulters using EDA
  A case study for the consumer finance company lendingclub.com where we dive into understand what factors determine a loan defaulter in banking and financial services and understand how data is used to minimize the risk of losing money while lending to customers.
 
 When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
