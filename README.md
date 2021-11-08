@@ -4,7 +4,7 @@ A case study for the consumer finance company lendingclub.com where we dive into
 
 When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
 
-### Business Objectives :
+## Business Objectives
 
 This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.
 
@@ -14,7 +14,7 @@ If one is able to identify these risky loan applicants, then such loans can be r
 
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
 
-### Types of Risks :
+## Types of Risks :
 
 The are 2 types of risks are associated with the Bank’s decision:
 
