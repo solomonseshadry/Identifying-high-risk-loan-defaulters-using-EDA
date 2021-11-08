@@ -1,4 +1,4 @@
-@# Problem Statement Overview
+## Problem Statement Overview
 
 A case study for the consumer finance company lendingclub.com where we dive into understand what factors determine a loan defaulter in banking and financial services and understand how data is used to minimize the risk of losing money while lending to customers.
 
